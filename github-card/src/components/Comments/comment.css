@@ -1,0 +1,6 @@
+.comment-item {
+    width: '50%',
+    @media screen and (max-width: 768px): {
+        width: '100%'
+    }
+}

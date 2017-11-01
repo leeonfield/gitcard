@@ -1,0 +1,31 @@
+{
+  "name": "comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leeon",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "koa": "^2.3.0",
+    "koa-body": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.1.0",
+    "koa-router": "^7.2.1",
+    "koa-session": "^5.5.0",
+    "koa-static": "^4.0.1",
+    "koa-views": "^6.1.1",
+    "moment": "^2.19.1",
+    "mongoose": "^4.12.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "user-agent-parse": "^0.1.8"
+  }
+}
