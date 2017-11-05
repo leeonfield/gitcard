@@ -50,9 +50,11 @@ class HomePage extends Component {
         document.title = 'Home · GitCard';
         this.getAuthUser();
     }
-
+/**
+ * client_id 是 github 应用提供的 code
+ */
     login() {
-      window.location.href = "https://github.com/login/oauth/authorize?client_id=9ac7f7243db6efac3114&scope=user:email&scope=user:follow";
+      window.location.href = "https://github.com/login/oauth/authorize?client_id=&scope=user:email&scope=user:follow";
     }
 
     render() {
