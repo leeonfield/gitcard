@@ -1,5 +1,6 @@
 
 ## 项目概览
+[预览地址](http://github.lijundong.com/)
 采用前后端分离
 后端：Node.js 起 API server
 前端：React 自起静态 server
