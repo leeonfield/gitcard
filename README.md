@@ -16,7 +16,7 @@
 
 - 在首页模块，可以查看最近登录的用户，并点击头像查看该用户的详细信息
 - 在 /Comment 模块中可以发表评论，并删除自己的评论
-- 在 /Detail 模块中可以查看用户在 Github 上的基本信息（代码库，Follower、Following 以及更多开发的信息），你可以在这个基础上做更多有意思的事情，支持 Follow 和 Unfollow 操作，当然，你可以加上 Star 和 Unstar 操作，异曲同工。🈳️
+- 在 /Detail 模块中可以查看用户在 Github 上的基本信息（代码库，Follower、Following 以及更多开发的信息），你可以在这个基础上做更多有意思的事情，支持 Follow 和 Unfollow 操作，当然，你可以加上 Star 和 Unstar 操作，异曲同工。
 
 ## server
 ### 技术栈
