@@ -26,7 +26,7 @@ const style = {
 
 class Login extends Component {
     login() {
-      window.location.href = "https://github.com/login/oauth/authorize?client_id=9ac7f7243db6efac3114&scope=user:email&scope=user:follow";
+      window.location.href = "https://github.com/login/oauth/authorize?client_id=Client_Id&scope=user:email&scope=user:follow";
     }
     render() {
       return ( <FlatButton label="Login" onClick={this.login} primary={true} />);
@@ -65,7 +65,7 @@ class SlideMenu extends Component {
     };
 
     login() {
-      window.location.href = "https://github.com/login/oauth/authorize?client_id=9ac7f7243db6efac3114&scope=user:email&scope=user:follow";
+      window.location.href = "https://github.com/login/oauth/authorize?client_id=Client_Id&scope=user:email&scope=user:follow";
     }
 
     render() {
