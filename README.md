@@ -12,7 +12,6 @@
 - more is on the way
 
 ## Server
-### 技术栈
 
 - Koa 2
 - MongoDB
