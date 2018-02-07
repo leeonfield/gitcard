@@ -15,6 +15,7 @@
 
 - Koa 2
 - MongoDB
+- Nginx
 
 ### API
 
